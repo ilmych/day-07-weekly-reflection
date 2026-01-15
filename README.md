@@ -16,7 +16,7 @@ Rate your week, track your streak, and see your patterns over time.
 
 ## Demo
 
-[Try it live](https://weekly-reflection.streamlit.app) *(coming soon)*
+[Try it live](https://weekly-reflection.streamlit.app)
 
 ## Features
 
